@@ -1,5 +1,5 @@
 # QSAR-monomer-reactivity-prediction
-Repository for research project on predicting monomer pair reactivity ratios with QSAR models of the U-V scheme values based on quantum chemical descriptors.
+Repository for research project on predicting monomer pair reactivity ratios with QSAR models of the U-V scheme values based on quantum chemical descriptors. Forked from Alia Lescoulies repository, containing the original files I was provided with.
 
 ## Data Set
 
@@ -17,4 +17,3 @@ An additional dependence for the models is [scikit](https://scikit-learn.org/sta
 ## Acknowledgments
 
 This work was supported by the Bill and Linda Frost Fund at Cal Poly San Luis Obispo.
-
