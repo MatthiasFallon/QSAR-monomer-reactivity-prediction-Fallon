@@ -11,7 +11,7 @@ Descriptors were computed in [Dragon 7](https://chm.kode-solutions.net/products_
 
 ## Prediction Model
 
-U and V models were build using [keras](https://keras.io) with an iterated k-fold approach in jupyter notebook. The files in the repository iterate through epoch values from 0 to 500 to evaluate the optimal setting.
+U and V models were build using [keras](https://keras.io) with an iterated k-fold approach in jupyter notebook. The files in the repository originally iterated through epoch values from 0 to 500 to evaluate the optimal setting, although this broke. Currently working on fixing the model.
 
 An additional dependence for the models is [scikit](https://scikit-learn.org/stable/) for the shuffle function used in implementing the iterated k-fold.
 ## Acknowledgments
