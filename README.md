@@ -16,4 +16,5 @@ U and V models were build using [keras](https://keras.io) with an iterated k-fol
 An additional dependence for the models is [scikit](https://scikit-learn.org/stable/) for the shuffle function used in implementing the iterated k-fold.
 ## Acknowledgments
 This work was supported by the Bill and Linda Frost Fund at Cal Poly San Luis Obispo.
-This proect was previously worked on by Alia Lescoulie at Cal Poly San Luis Obispo.
+
+This project was previously worked on by Alia Lescoulie at Cal Poly San Luis Obispo.
